@@ -1,0 +1,98 @@
+:host {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.input-group {
+  top: 200px;
+  margin: 10px;
+  width: 992px;
+  left: 50px;
+  min-width: min-content;
+  position: relative;
+  height: max-content;
+}
+.input-group_1 {
+  top: 320px;
+  margin: 10px;
+  width: 992px;
+  left: 50px;
+  min-width: min-content;
+  position: relative;
+  height: max-content;
+}
+.input-group_2 {
+  top: 420px;
+  margin: 10px;
+  width: 992px;
+  left: 50px;
+  min-width: min-content;
+  position: relative;
+  height: max-content;
+}
+.radio-group {
+  top: 120px;
+  width: max-content;
+  left: 50px;
+  position: relative;
+  height: max-content;
+}
+.button {
+  top: 140px;
+  left: 200px;
+  width: 300px;
+  min-width: min-content;
+  position: relative;
+  height: max-content;
+}
+.button_1 {
+  top: 108px;
+  left: 500px;
+  width: 300px;
+  min-width: min-content;
+  position: relative;
+  height: max-content;
+}
+.radio-item {
+  margin: 20px;
+}
+.title {
+  margin: 130px 0 20px 50px;
+  width: 500px;
+  height: max-content;
+  min-width: min-content;
+  white-space: pre-wrap;
+}
+.title_1 {
+  margin: -250px 0 20px 50px;
+  width: 500px;
+  height: max-content;
+  min-width: min-content;
+  white-space: pre-wrap;
+}
+.title_2 {
+  margin: 280px 0 -100px 50px;
+  width: 500px;
+  height: max-content;
+  min-width: min-content;
+  white-space: pre-wrap;
+}
+.title_3 {
+  width: 844px;
+  top: -450px;
+  left: 50px;
+  position: relative;
+  height: max-content;
+  min-width: min-content;
+  white-space: pre-wrap;
+}
+.title_4 {
+  width: 721px;
+  top: 100px;
+  left: 50px;
+  position: relative;
+  height: max-content;
+  min-width: min-content;
+  white-space: pre-wrap;
+}
